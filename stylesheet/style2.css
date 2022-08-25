@@ -100,22 +100,7 @@ li {
   color: #212121;
 }
 
-.menu-left ul li {
-  display: inline-block;
 
-  vertical-align: top;
-  padding-top: 5px;
-  padding: 10px;
-}
-
-.menu-right ul li {
-  display: inline-block;
-
-  vertical-align: top;
-  padding-top: 5px;
-  padding: 10px;
-  padding-left: 20px;
-}
 
 .email {
   position: absolute;
